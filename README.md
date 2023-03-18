@@ -1,5 +1,5 @@
 # S3 Cost and Usage Explorer
-## Retrieve, visualize, and evaluate s3 usage
+## Retrieve, visualize, and evaluate S3 usage
 
 ### Files:  
 main.py - The main file that drives the application.  
