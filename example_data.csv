@@ -1,0 +1,9 @@
+ResultsByTime.TimePeriod.Start,ResultsByTime.TimePeriod.End,ResultsByTime.Total.UnblendedCost.Amount,ResultsByTime.Total.UnblendedCost.Unit,ResultsByTime.Estimated,ResponseMetadata.RequestId,ResponseMetadata.HTTPStatusCode,ResponseMetadata.HTTPHeaders.date,ResponseMetadata.HTTPHeaders.content-type,ResponseMetadata.HTTPHeaders.content-length,ResponseMetadata.HTTPHeaders.connection,ResponseMetadata.HTTPHeaders.x-amzn-requestid,ResponseMetadata.HTTPHeaders.cache-control,ResponseMetadata.RetryAttempts
+7/1/2022,8/1/2022,18.05,USD,TRUE,bd85e3e4-3b8b-4492-8318-fb441d568dab,200,"Mon, 06 Feb 2023 01:37:08 GMT",application/x-amz-json-1.1,1337,keep-alive,bd85e3e4-3b8b-4492-8318-fb441d568dab,no-cache,0
+8/1/2022,9/1/2022,21.66,USD,TRUE,bd85e3e4-3b8b-4492-8318-fb441d568dab,200,"Mon, 06 Feb 2023 01:37:08 GMT",application/x-amz-json-1.1,1337,keep-alive,bd85e3e4-3b8b-4492-8318-fb441d568dab,no-cache,0
+9/1/2022,10/1/2022,22.02,USD,TRUE,bd85e3e4-3b8b-4492-8318-fb441d568dab,200,"Mon, 06 Feb 2023 01:37:08 GMT",application/x-amz-json-1.1,1337,keep-alive,bd85e3e4-3b8b-4492-8318-fb441d568dab,no-cache,0
+10/1/2022,11/1/2022,22.59,USD,TRUE,bd85e3e4-3b8b-4492-8318-fb441d568dab,200,"Mon, 06 Feb 2023 01:37:08 GMT",application/x-amz-json-1.1,1337,keep-alive,bd85e3e4-3b8b-4492-8318-fb441d568dab,no-cache,0
+11/1/2022,12/1/2022,25.25,USD,TRUE,bd85e3e4-3b8b-4492-8318-fb441d568dab,200,"Mon, 06 Feb 2023 01:37:08 GMT",application/x-amz-json-1.1,1337,keep-alive,bd85e3e4-3b8b-4492-8318-fb441d568dab,no-cache,0
+12/1/2022,1/1/2023,32.64,USD,TRUE,bd85e3e4-3b8b-4492-8318-fb441d568dab,200,"Mon, 06 Feb 2023 01:37:08 GMT",application/x-amz-json-1.1,1337,keep-alive,bd85e3e4-3b8b-4492-8318-fb441d568dab,no-cache,0
+1/1/2023,2/1/2023,37.92,USD,TRUE,bd85e3e4-3b8b-4492-8318-fb441d568dab,200,"Mon, 06 Feb 2023 01:37:08 GMT",application/x-amz-json-1.1,1337,keep-alive,bd85e3e4-3b8b-4492-8318-fb441d568dab,no-cache,0
+,,,,,,,,,,,,,

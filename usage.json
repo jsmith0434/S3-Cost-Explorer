@@ -1,0 +1,126 @@
+{
+  "ResultsByTime": [
+    {
+      "TimePeriod": {
+        "Start": "2022-07-01",
+        "End": "2022-08-01"
+      },
+      "Total": {
+        "UnblendedCost": {
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        "UsageQuantity": {
+          "Amount": "0",
+          "Unit": "N/A"
+        }
+      },
+      "Groups": [],
+      "Estimated": true
+    },
+    {
+      "TimePeriod": {
+        "Start": "2022-08-01",
+        "End": "2022-09-01"
+      },
+      "Total": {
+        "UnblendedCost": {
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        "UsageQuantity": {
+          "Amount": "0",
+          "Unit": "N/A"
+        }
+      },
+      "Groups": [],
+      "Estimated": true
+    },
+    {
+      "TimePeriod": {
+        "Start": "2022-09-01",
+        "End": "2022-10-01"
+      },
+      "Total": {
+        "UnblendedCost": {
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        "UsageQuantity": {
+          "Amount": "0",
+          "Unit": "N/A"
+        }
+      },
+      "Groups": [],
+      "Estimated": true
+    },
+    {
+      "TimePeriod": {
+        "Start": "2022-10-01",
+        "End": "2022-11-01"
+      },
+      "Total": {
+        "UnblendedCost": {
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        "UsageQuantity": {
+          "Amount": "0",
+          "Unit": "N/A"
+        }
+      },
+      "Groups": [],
+      "Estimated": true
+    },
+    {
+      "TimePeriod": {
+        "Start": "2022-11-01",
+        "End": "2022-12-01"
+      },
+      "Total": {
+        "UnblendedCost": {
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        "UsageQuantity": {
+          "Amount": "0",
+          "Unit": "N/A"
+        }
+      },
+      "Groups": [],
+      "Estimated": true
+    },
+    {
+      "TimePeriod": {
+        "Start": "2022-12-01",
+        "End": "2023-01-01"
+      },
+      "Total": {
+        "UnblendedCost": {
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        "UsageQuantity": {
+          "Amount": "0",
+          "Unit": "N/A"
+        }
+      },
+      "Groups": [],
+      "Estimated": true
+    }
+  ],
+  "DimensionValueAttributes": [],
+  "ResponseMetadata": {
+    "RequestId": "4c886c80-a2e8-4e07-92e9-892b45122ea1",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "date": "Sat, 18 Mar 2023 17:48:27 GMT",
+      "content-type": "application/x-amz-json-1.1",
+      "content-length": "1153",
+      "connection": "keep-alive",
+      "x-amzn-requestid": "4c886c80-a2e8-4e07-92e9-892b45122ea1",
+      "cache-control": "no-cache"
+    },
+    "RetryAttempts": 0
+  }
+}
